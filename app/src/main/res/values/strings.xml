@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">text_reader</string>
+    <string name="login">로그인</string>
+    <string name="create_folder">폴더 생성</string>
+    <string name="create_file">파일 생성</string>
+    <string name="favorite">즐겨찾기</string>
+
+</resources>
